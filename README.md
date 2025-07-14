@@ -4,11 +4,11 @@
   <a href="https://instagram.com/scripted.gaurav" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/_gauravchauhann" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gauravchauhan2318@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
@@ -20,23 +20,47 @@
 
 <h3 align="center">📚 Languages & Fundamentals</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
-</p>
-
-<h3 align="center">🧰 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,gcloud,powershell" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma,canva" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
 </p>
 
 <h3 align="center">📦 Libraries & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,pytorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
+</p>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcloud" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=canva" height="40" />
 </p>
 
 ---
