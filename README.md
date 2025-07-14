@@ -16,17 +16,20 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">📚 Languages & Fundamentals</h3>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" height="40" />
+</p>
+
+<h3 align="center">📦 Libraries & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,pytorch,pandas,numpy,matplotlib" height="40" />
+</p>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,gcloud,powershell,figma,canva" height="40" />
+</p>
+
 
 <h3 align="center">📦 Libraries & Frameworks</h3>
 <table align="center">
@@ -43,6 +46,7 @@
 <h3 align="center">🛠️ Tools & Platforms</h3>
 <table align="center">
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="40" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=gcloud" height="40" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=powershell" height="40" /></td>
@@ -50,6 +54,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=canva" height="40" /></td>
   </tr>
 </table>
+
 
 ---
 
