@@ -1,91 +1,169 @@
-<h1 align="center">Hey 👋 I'm Gaurav Chauhan</h1>
-<h3 align="center">B.Tech CSE Student • Developer • Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Gaurav Chauhan</h1>
+<h3 align="center">Computer Science Student • Full-Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  🎓 First-year Computer Science student <br/>
-  💻 Interested in Full-Stack Development, DSA & AI <br/>
-  🌱 Learning by building real-world projects
+🎓 B.Tech Computer Science Student at UPES, Dehradun <br>
+💻 Passionate about AI, Full-Stack Development, Computer Vision & Developer Tools <br>
+🚀 Building scalable applications and solving real-world problems through technology
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Third-year B.Tech Computer Science student at **UPES, Dehradun**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Computer Vision**
+- 🌐 Full-Stack Developer specializing in **React, FastAPI, Node.js, and TypeScript**
+- 🧠 Enjoy building AI-powered applications and developer tools
+- 📦 Published an **npm package (Imcrypt)** for image encryption
+- 💡 Currently exploring **LLMs, RAG, MLOps, and Cloud Technologies**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/scripted.gaurav">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/_gauravchauhann">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+
+  <a href="https://github.com/theninza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/grv_chauhan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
   <a href="mailto:gauravchauhan2318@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://x.com/_gauravchauhann">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 🧠 Core Skills
+### Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java"/>
+
 </p>
 
-### 📦 Libraries & Frameworks
+### Frontend
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+
 </p>
 
-### 🛠️ Tools & Platforms
+### Backend
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+### AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge"/>
+
+</p>
+
+### Database & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,docker,git,github,vscode,postman"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- **TaskMaster** – Full-stack project management app  
-  *Node.js • React • MongoDB • JWT • Drag & Drop*
+### 🛡️ SIF Sentinel AI
 
-- **Spendly** – Personal finance tracker  
-  *React • Vite • Charts • Dark Mode*
-
-- **Hospital Management System**  
-  *Flask • Authentication • Dashboard • Security*
+AI-powered industrial safety intelligence platform for Serious Injury & Fatality prediction using **16K+ OSHA records**, semantic search, explainable AI, and FastAPI.
 
 ---
 
-## 📊 GitHub Analytics
+### 🖼️ AI Image Detector
+
+Deep learning model using **EfficientNet-B0** to classify AI-generated and real images with real-time Gradio deployment.
+
+---
+
+### 🎓 Evolved Student Management System
+
+Modern role-based student management platform built with **React, TypeScript, Tailwind CSS**, and RBAC.
+
+---
+
+### 🔐 Imcrypt
+
+Published **Node.js npm CLI** implementing XOR-based image encryption and decryption.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravchauhan13&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchauhan13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=theninza&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theninza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theninza&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Highlights
+# 🏆 Certifications
 
-- 🧩 Solved 200+ DSA problems  
-- 🛠️ Built multiple full-stack projects  
-- 📈 Consistent learner & daily coder  
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- AI & Machine Learning – E&ICT Academy, IIT Roorkee
+- Cisco Introduction to Cybersecurity
+- HackerRank Problem Solving & Python
+
+---
+
+# 🏅 Achievements
+
+- 💻 Solved **109+ DSA problems** on LeetCode
+- 🔥 Achieved a **40-day coding streak**
+- 🏆 Adobe University Hackathon 2026 Participant
+- 📦 Published **Imcrypt** on npm
+- ☁️ Oracle Certified in AI & Generative AI
 
 ---
 
 <p align="center">
-  🤝 Open to internships, collaborations, and learning opportunities <br/>
-  ⭐ Explore my repositories and connect
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
 </p>
